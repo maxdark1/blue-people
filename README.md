@@ -1,0 +1,2 @@
+# blue-people
+prueba tecnica
